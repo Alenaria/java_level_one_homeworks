@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca0cbf08-d937-4d7f-82d6-322a7277ea84" name="Changes" comment="Выполнила д/з №7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/MyWindow.java" afterDir="false" />
+    <list default="true" id="ca0cbf08-d937-4d7f-82d6-322a7277ea84" name="Changes" comment="Выполнила д/з №8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/ApplicationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/components/DigitJButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/components/OperatorJButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/listeners/ButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/listeners/ClearFieldButtonListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/HomeWorkApp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/HomeWorkApp2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson4/HomeWorkApp4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4/HomeWorkApp4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson8/MyWindow.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson-6" />
+        <entry key="$PROJECT_DIR$" value="lesson-7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,19 +58,6 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="HomeWorkApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.HomeWorkApp2" />
-      <module name="Java1.Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HomeWorkApp5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson5.HomeWorkApp5" />
       <module name="Java1.Project1" />
@@ -118,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.MyWindow" />
+      <module name="Java1.Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyWindow" />
         <item itemvalue="Application.HomeWorkApp7" />
         <item itemvalue="Application.HoneWorkApp6" />
         <item itemvalue="Application.HomeWorkApp5" />
-        <item itemvalue="Application.HomeWorkApp2" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687783851395</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Выполнила д/з №8">
+      <created>1687788220983</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687788220983</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +220,8 @@
     <MESSAGE value="Выполнила д/з №5" />
     <MESSAGE value="Выполнила д/з №6" />
     <MESSAGE value="Выполнила д/з №7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнила д/з №7" />
+    <MESSAGE value="Выполнила д/з №8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнила д/з №8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
