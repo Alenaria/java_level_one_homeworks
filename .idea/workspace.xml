@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca0cbf08-d937-4d7f-82d6-322a7277ea84" name="Changes" comment="Выполнила д/з №5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/HoneWorkApp6.java" afterDir="false" />
+    <list default="true" id="ca0cbf08-d937-4d7f-82d6-322a7277ea84" name="Changes" comment="Выполнила д/з №6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7/HomeWorkApp7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/HomeWorkApp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/HomeWorkApp2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson4/HomeWorkApp4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4/HomeWorkApp4.java" afterDir="false" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson-4" />
+        <entry key="$PROJECT_DIR$" value="lesson-5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +51,7 @@
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HoneWorkApp6">
+  <component name="RunManager" selected="Application.HomeWorkApp7">
     <configuration name="HomeWorkApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.HomeWorkApp2" />
       <module name="Java1.Project1" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWorkApp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.HomeWorkApp4" />
+    <configuration name="HomeWorkApp5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5.HomeWorkApp5" />
       <module name="Java1.Project1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWorkApp5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson5.HomeWorkApp5" />
+    <configuration name="HomeWorkApp7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeWorkApp7" />
       <module name="Java1.Project1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson5.*" />
+          <option name="PATTERN" value="Lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWorkApp7" />
         <item itemvalue="Application.HoneWorkApp6" />
         <item itemvalue="Application.HomeWorkApp5" />
         <item itemvalue="Application.HomeWorkApp2" />
         <item itemvalue="Application.HomeWorkApp4 (1)" />
-        <item itemvalue="Application.HomeWorkApp4" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687769649685</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Выполнила д/з №6">
+      <created>1687770216463</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687770216463</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +198,8 @@
     <MESSAGE value="Выполнила д/з №3" />
     <MESSAGE value="Выполнила д/з №4" />
     <MESSAGE value="Выполнила д/з №5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнила д/з №5" />
+    <MESSAGE value="Выполнила д/з №6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнила д/з №6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
